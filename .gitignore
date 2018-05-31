@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+classes_gen
+
+.mps/workspace.xml
+
+#source_gen
+languages/MPSTS/source_gen
+languages/MPSTS/generator/source_gen
+source_gen.caches
